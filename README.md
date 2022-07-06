@@ -1,4 +1,4 @@
-# Natural Language Processing and Quantum Natural Language Processing
+# Classical Natural Language Processing and Quantum Natural Language Processing
 
 
 
