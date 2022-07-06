@@ -1,6 +1,6 @@
 # A code-first intro to Natural Language Processinng
 
-All the lecture videos are available [here](insert link here)
+
 
 This course was taught in the [University of San Francisco](https://) . The course is taught in python , using libraries like sklearn, nltk, pytorch, and fastai 
 
